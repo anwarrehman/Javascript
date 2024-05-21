@@ -1,26 +1,26 @@
-alert("Assalamualaikum!");
+// alert("Assalamualaikum!");
 
 
 
 
-alert("Hello World!");
+// alert("Hello World!");
 
 
 
 
-// line break (\n);
+// // line break (\n);
 
-alert("Pizza \nPizz \nPiz \nPi \nP");
-
-
+// alert("Pizza \nPizz \nPiz \nPi \nP");
 
 
 
 
 
-alert(13579);
+
+
+// alert(13579);
 
 
 
 
-alert("13579");
+// alert("13579");
