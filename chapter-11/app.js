@@ -44,6 +44,7 @@
 
 
 
-if (0 >= 0){
-    alert("You'r not write");
-}
+
+// if (0 >= 0){
+//     alert("You'r not write");
+// }
