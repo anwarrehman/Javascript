@@ -8,11 +8,9 @@
 
 
 
-let countryNames = ['Pakistan', 'Afghanistan', 'Australia', 'Germany', 'Hong Kong'];
+// let countryNames = ['Pakistan', 'Afghanistan', 'Australia', 'Germany', 'Hong Kong'];
 
-// console.log(countryNames);
-
-for (let i = 0; i <= 4; i++){
-    countryNames[i] += ' Country';
-    console.log(countryNames[i]);
-}
+// for (let i = 0; i <= 4; i++){
+//     countryNames[i] += ' Country';
+//     console.log(countryNames[i]);
+// }
